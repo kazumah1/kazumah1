@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **kazumah1/kazumah1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://app.daily.dev/kazumah"><img src="https://api.daily.dev/devcards/v2/7Ar5LlH2yRgzpspnJSxvB.png?type=default&r=qjo" width="356" alt="kazuma's Dev Card"/></a>
